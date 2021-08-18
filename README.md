@@ -18,7 +18,7 @@ I also like to participate and compete in Hackathons. I also write blogs (cool b
 
 
 ## 🛠️ **Languages & Tools:**
-`Python`, `Javascript`, `NodeJs`, `VueJS`, `Django`
+`Python`, `Javascript`, `NodeJs`, `VueJS`, `Django`, `React`, `Tezos`
 
 
 ## ☎️ Let's Connect 
