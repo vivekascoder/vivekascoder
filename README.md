@@ -17,3 +17,8 @@
  📂 ~/code  
 ❯❯❯ 
 ```
+
+### Latest Videos and Articles
+1. [How to add `burn` method in FA2 template](https://www.youtube.com/watch?v=RrhaaxR-85c)
+2. [How to create a DEX on tezos from scratch](https://learn.figment.io/tutorials/create-a-dex-on-tezos)
+3. [What is Tezos India Fellowship](https://www.youtube.com/watch?v=Gq_HIzzL3pQ&t=15s)
