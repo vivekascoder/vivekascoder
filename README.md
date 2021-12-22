@@ -10,7 +10,7 @@
    4   │ I mostly work on web3, primarily Tezos.
    5   │ 
    6   │ ## Connect With Me
-   7   │ + [Website](https://blog.divcorn.com)
+   7   │ + [Website](https://vivek.biz)
    8   │ + [Discord](https://discord.gg/u4Z6QCkhxv)
    9   │ + [Youtube](https://youtube.com/c/vivekascoder)
 ──────┴──────────────────────────────────────────────────────────────
