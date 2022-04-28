@@ -7,7 +7,7 @@
    1   │ # Who Am I ?
    2   │ 
    3   │ I am Vivek, a full stack web 2 and web3 dev. Now-a-days,
-   4   │ I mostly work on web3, primarily Tezos.
+   4   │ I mostly work on web3.
    5   │ 
    6   │ ## Connect With Me
    7   │ + [Website](https://vivek.biz)
